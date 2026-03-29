@@ -7,15 +7,10 @@ Ez a projekt alapvető végpont-kezelési és automatizálási koncepciókat mut
 
 ## Main goals/Fő célok
 
-- Control USB storage access
-- Check endpoint state
-- Log configuration state
-- Prepare for remote endpoint checks
-
-- USB adattárolók hozzáférésének szabályozása
-- Végpontok állapotának ellenőrzése
-- Konfiguráció állapotának naplózása
-- Több gépes (távoli) ellenőrzés előkészítése
+- Control USB storage access /USB adattárolók hozzáférésének szabályozása
+- Check endpoint state /Végpontok állapotának ellenőrzése
+- Log configuration state /Konfiguráció állapotának naplózása
+- Prepare for remote endpoint checks /Több gépes (távoli) ellenőrzés előkészítése
 
 ## Scripts
 
